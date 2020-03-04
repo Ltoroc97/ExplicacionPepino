@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RealizarBusquedaPepino</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed645a4e-361e-462b-aa3f-ddeaac7d6c36</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a87e4d6-6d80-40a9-97b0-d44c053e91b7</id>
+      <masked>false</masked>
+      <name>Busqueda</name>
+   </variable>
+</TestCaseEntity>
